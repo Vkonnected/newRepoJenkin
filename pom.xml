@@ -49,10 +49,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-	</build>
-
-	<build>
-		<final-name>demo-jenkin.jar</final-name>
+        <final-name>demo-jenkin.jar</final-name>
 	</build>
 
 </project>
